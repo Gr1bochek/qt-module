@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sample.txt</file>
+        <file>imageedit_4_5424026280.png</file>
+        <file>start-icon.png</file>
+        <file>stop-icon.png</file>
+        <file>imageedit_1_8076061353.png</file>
+    </qresource>
+</RCC>
